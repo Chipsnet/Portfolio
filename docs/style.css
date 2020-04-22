@@ -77,6 +77,12 @@ a:hover{
     margin-bottom:60px;
 }
 
+footer{
+    text-align: center;
+    background-color: var(--ccol2);
+    font-family: var(--font1),sans-serif;
+}
+
 div{
     font-family:var(--font1),sans-serif;
     color:var(--ccol1);
