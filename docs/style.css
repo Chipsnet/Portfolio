@@ -4,6 +4,14 @@
     --font1:"Noto Sans JP"
 }
 
+#background{
+    height: 100vh;
+    width: 100vw;
+    z-index: -1;
+    position: fixed;
+    background-color: var(--ccol2);
+}
+
 #container{
     display:flex;
     margin:-9px;
